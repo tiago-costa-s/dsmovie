@@ -5,6 +5,7 @@ Frontend
 - HTML
 - CSS
 - Bootstrap
+- TypeScript
 
 Backend
 - Java
