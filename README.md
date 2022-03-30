@@ -16,16 +16,7 @@ Cloud
 - Heroku
 - Netlify
 
-
-- React
-- Typescript
-- CSS
-- Bootstrap
-- Figma
-- Git
-
-
-Objetivos realizados:
+Objetivos Realizados:
 
 -Implementação do backend
 -Modelo de domínio
